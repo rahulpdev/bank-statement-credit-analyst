@@ -1,0 +1,6 @@
+.venv/
+.env
+
+# Real bank statements and local data
+data/real/
+__pycache__/
